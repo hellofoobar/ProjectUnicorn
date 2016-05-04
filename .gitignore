@@ -4,3 +4,4 @@ data/diagnostic.data/metrics.2016-05-04T04-22-15Z-00000
 data/diagnostic.data/metrics.2016-05-04T04-27-01Z-00000
 *.lock
 data/WiredTiger.turtle
+data/WiredTiger
